@@ -1,0 +1,13 @@
+Alt,Bar,Fri,Hun,Pat,Price,Rain,Res,Type,Est,Decision
+T,F,F,T,Some,3,F,T,F,0,T
+T,F,F,T,Full,1,F,F,T,3,F
+F,T,F,F,Some,1,F,F,B,0,T
+T,F,T,T,Full,1,F,F,T,1,T
+T,F,T,F,Full,3,F,T,F,6,F
+F,T,F,T,Some,2,T,T,I,0,T
+F,T,F,F,None,1,T,F,B,0,F
+F,F,F,T,Some,2,T,T,T,0,T
+F,T,T,F,Full,1,T,F,B,6,F
+T,T,T,T,Full,3,F,T,I,1,F
+F,F,F,F,None,1,F,F,T,0,F
+T,T,T,T,Full,1,F,F,B,3,T
